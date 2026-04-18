@@ -2,7 +2,7 @@ import canastaymanzana.*
 
 object caperucita {
     var peso = 60
-    var pesoCanasta = canasta.peso()
+    var pesoCanasta = canasta.peso()    //puede Variar
     var disfrazDe = "caperucita"
    
     method peso() = peso
